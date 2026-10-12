@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-comments",
+  "versions": [
+    {
+      "commit": "f381d9618927d10a0e1c127a5a9ec67cc9f218a9",
+      "tag": "0.1.2.a6",
+      "parsed_at": "2026-10-12T19:32:13.324542+00:00"
+    }
+  ]
+}
